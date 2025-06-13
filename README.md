@@ -10,16 +10,11 @@ Analyzing football scores for different clubs in 2024/2025 Premier League Compet
 # (2) Which team secured the highest number of wins? 
 -This will indicate consistency in performance
 # (3) who are the 5 top team qualified for Champions League
-    - Liverpool
-    - Arsenal
-    - Manchester City
-    - Chelsea
-    - Aston Villa
-    - Newcattle United
+- Liverpool, Arsenal, Manchester City,Celsea, Aston Villa, Newcastle United
+  
 # (4)Who are the bottom 3 team that relegated in the just concluded season
-    - Leicester City
-    - Ipswich Town
-    - Southampton
+- Leicester City, Ipswich Town, Southampton
+    
 (5) How balanced was the match?
   -The dataset was analyzed to assess competitive balance across the season. The near-equal number of total wins and losses (287 each) shows parity in the competition, but the lower draw count suggests a season with more decisive outcomes.
 (6) which team had the strongest offensive and defensive records
