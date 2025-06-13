@@ -1,7 +1,7 @@
-# 2024-2025-PREMIER-LEAGUE
+# 2024-2025-PREMIER-LEAGUE ANALYTICS
 # INTRODUCTION
 The English Premier League (epl) is one  of the most competition football league in the world. the 2024/2025 season promises to be another thrilling chapter in its history, providing ampe opportunities for the data analyst to explore trends, correlations and insights  based on goals , points, wins, and loses.
-# QUESTION BASED FOOTBALL ANALYTICS
+# FOOTBALL ANALYTICS
 Analyzing football scores for different clubs in 2024/2025 Premier League Competitio
 
 # (1) Which team scored the most and least goals during the 2024/2025 season?
