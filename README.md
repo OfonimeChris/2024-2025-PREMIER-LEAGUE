@@ -4,19 +4,19 @@ The English Premier League (epl) is one  of the most competition football league
 # QUESTION BASED FOOTBALL ANALYTICS
 Analyzing football scores for different clubs in 2024/2025 Premier League Competitio
 
-(1) Which team scored the most and least goals during the 2024/2025 season?
+# (1) Which team scored the most and least goals during the 2024/2025 season?
 -An analysis comparing the total goal scored by each team can reveal attacking prowess
     This analysis focused on identifying the top-performing and least-performing teams based on total points earned. Teams like Liverpool and Arsenal are shown as leading in points, while teams such as Southampton, Ipswich Town, and Leicester City have the fewest points, indicating underperformance.
-(2) Which team secured the highest number of wins? 
+# (2) Which team secured the highest number of wins? 
 -This will indicate consistency in performance
-(3) who are the 5 top team qualified for Champions League
+# (3) who are the 5 top team qualified for Champions League
     - Liverpool
     - Arsenal
     - Manchester City
     - Chelsea
     - Aston Villa
     - Newcattle United
-(4)Who are the bottom 3 team that relegated in the just concluded season
+# (4)Who are the bottom 3 team that relegated in the just concluded season
     - Leicester City
     - Ipswich Town
     - Southampton
